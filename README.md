@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying
+- 🔭 I’m currently learning UI/UX 
 - 💬 Ask me about Anything
 - 📫 How to reach me: [E-mail](mailto:choirunisaiqbar@gmail.com) &mdash; [Instagram](https://instagram.com/nisatani)
 - 😄 Pronouns: She/Her
