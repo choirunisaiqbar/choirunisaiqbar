@@ -12,9 +12,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: [E-mail](mailto:choirunisaiqbar@gmail.com) &mdash; [Instagram](https://instagram.com/nisatani)
 - 😄 Pronouns: She/Her
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choirunisaiqbar&layout=compact&theme=shades-of-purple&card_width=800" />
-  </a>
-</p>
